@@ -1,3 +1,3 @@
-def meal_choice(meat="meat", meat="vegan")
-  puts phrase
+def meal_choice(name = "meat")
+  puts "Hello, #{name}"
 end
