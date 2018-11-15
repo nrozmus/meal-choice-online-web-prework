@@ -1,3 +1,3 @@
-def meal_choice(phrase = "meat", vegan)
+def meal_choice(meat = "meat", meat = "vegan")
   puts phrase
 end
