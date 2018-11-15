@@ -1,3 +1,3 @@
-def meal_choice(name = "Ruby programmer")
+def meal_choice(default = "Ruby programmer")
   puts "Hello, #{name}"
 end
