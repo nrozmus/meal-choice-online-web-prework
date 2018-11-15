@@ -1,2 +1,2 @@
-def meal_choice(name="meat", language="vegan"
+def meal_choice(meat,vegan)
 end
