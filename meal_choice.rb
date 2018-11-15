@@ -1,3 +1,3 @@
 def meal_choice(default = "meat")
-  puts "Hello, #{name}"
+  puts "vegan #{name}"
 end
