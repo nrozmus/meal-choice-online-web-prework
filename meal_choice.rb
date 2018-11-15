@@ -1,2 +1,2 @@
-def meal_choice(name="Ruby programmer", language="Ruby"
+def meal_choice(name="meat", language="vegan"
 end
