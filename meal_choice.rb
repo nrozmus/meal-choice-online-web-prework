@@ -1,3 +1,3 @@
-def meal_choice(name="meat")
+def meal_choice(meal_choice="meat")
   puts "#{vegan}"
 end
